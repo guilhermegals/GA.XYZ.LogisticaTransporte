@@ -1,0 +1,15 @@
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.Data\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.Data\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Infra.Data.deps.json
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.Data\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Infra.Data.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.Data\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Infra.Data.pdb
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.Data\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Domain.Core.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.Data\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Domain.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.Data\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Domain.Core.pdb
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.Data\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Domain.pdb
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.Data\obj\Debug\netcoreapp2.0\GA.XYZ.LeT.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.Data\obj\Debug\netcoreapp2.0\GA.XYZ.LeT.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.Data\obj\Debug\netcoreapp2.0\GA.XYZ.LeT.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.Data\obj\Debug\netcoreapp2.0\GA.XYZ.LeT.Infra.Data.AssemblyInfo.cs
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.Data\obj\Debug\netcoreapp2.0\GA.XYZ.LeT.Infra.Data.csproj.CopyComplete
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.Data\obj\Debug\netcoreapp2.0\GA.XYZ.LeT.Infra.Data.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.Data\obj\Debug\netcoreapp2.0\GA.XYZ.LeT.Infra.Data.pdb

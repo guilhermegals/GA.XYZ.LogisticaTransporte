@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <UserSecretsId>aspnet-GA.XYZ.LeT.Site-E11BE9EC-6519-44A7-9D03-7B7787FE32FB</UserSecretsId>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="3.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.0.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.3" PrivateAssets="All" />
+    <PackageReference Include="PagedList.Mvc" Version="4.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.2" />
+    <DotNetCliToolReference Include="Microsoft.Extensions.SecretManager.Tools" Version="2.0.1" />
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GA.XYZ.LeT.Application\GA.XYZ.LeT.Application.csproj" />
+    <ProjectReference Include="..\GA.XYZ.LeT.Infra.CrossCutting.Bus\GA.XYZ.LeT.Infra.CrossCutting.Bus.csproj" />
+    <ProjectReference Include="..\GA.XYZ.LeT.Infra.CrossCutting.IoC\GA.XYZ.LeT.Infra.CrossCutting.IoC.csproj" />
+    <ProjectReference Include="..\GA.XYZ.LeT.Infra.Data\GA.XYZ.LeT.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

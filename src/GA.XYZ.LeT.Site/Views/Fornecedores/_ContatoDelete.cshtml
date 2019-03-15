@@ -1,0 +1,45 @@
+﻿@model GA.XYZ.LeT.Application.ViewModels.ContatoViewModel
+
+<div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal">
+        <span aria-hidden="true">×</span><span class="sr-only">Close</span>
+    </button>
+    <h4 class="modal-title"> <strong>Deseja excluir este contato?</strong></h4>
+</div>
+
+<div class="modal-body">
+    <div class="modal-body">
+        <div class="form-horizontal">
+            <div>
+                <dl class="dl-horizontal">
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Nome)
+                    </dt>
+                    <dd>
+                        @Html.DisplayFor(model => model.Nome)
+                    </dd>
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Email)
+                    </dt>
+                    <dd>
+                        @Html.DisplayFor(model => model.Email)
+                    </dd>
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Telefone)
+                    </dt>
+                    <dd>
+                        @Html.DisplayFor(model => model.Telefone)
+                    </dd>
+                </dl>
+            </div>
+
+            <form asp-action="DeletarContato">
+                @Html.AntiForgeryToken()
+                <div class="modal-footer">
+                    <input type="submit" value="Deletar" class="btn btn-success" />
+                    <a class="btn btn-danger" asp-action="Details" asp-route-id="@Model.IdFornecedor">Cancelar</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

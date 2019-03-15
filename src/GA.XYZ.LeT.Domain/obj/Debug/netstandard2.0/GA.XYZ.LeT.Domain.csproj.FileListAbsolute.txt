@@ -1,0 +1,24 @@
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain\bin\Debug\netstandard2.0\GA.XYZ.LeT.Domain.deps.json
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain\bin\Debug\netstandard2.0\GA.XYZ.LeT.Domain.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain\bin\Debug\netstandard2.0\GA.XYZ.LeT.Domain.pdb
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain\bin\Debug\netstandard2.0\GA.XYZ.LeT.Domain.Core.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain\bin\Debug\netstandard2.0\GA.XYZ.LeT.Domain.Core.pdb
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain\obj\Debug\netstandard2.0\GA.XYZ.LeT.Domain.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain\obj\Debug\netstandard2.0\GA.XYZ.LeT.Domain.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain\obj\Debug\netstandard2.0\GA.XYZ.LeT.Domain.AssemblyInfo.cs
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain\obj\Debug\netstandard2.0\GA.XYZ.LeT.Domain.csproj.CopyComplete
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain\obj\Debug\netstandard2.0\GA.XYZ.LeT.Domain.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain\obj\Debug\netstandard2.0\GA.XYZ.LeT.Domain.pdb
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain\obj\Debug\netstandard2.0\GA.XYZ.LeT.Domain.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain\bin\Debug\netstandard2.0\GA.XYZ.LeT.Domain.deps.json
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain\bin\Debug\netstandard2.0\GA.XYZ.LeT.Domain.dll
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain\bin\Debug\netstandard2.0\GA.XYZ.LeT.Domain.pdb
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain\bin\Debug\netstandard2.0\GA.XYZ.LeT.Domain.Core.dll
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain\bin\Debug\netstandard2.0\GA.XYZ.LeT.Domain.Core.pdb
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain\obj\Debug\netstandard2.0\GA.XYZ.LeT.Domain.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain\obj\Debug\netstandard2.0\GA.XYZ.LeT.Domain.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain\obj\Debug\netstandard2.0\GA.XYZ.LeT.Domain.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain\obj\Debug\netstandard2.0\GA.XYZ.LeT.Domain.AssemblyInfo.cs
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain\obj\Debug\netstandard2.0\GA.XYZ.LeT.Domain.csproj.CopyComplete
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain\obj\Debug\netstandard2.0\GA.XYZ.LeT.Domain.dll
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain\obj\Debug\netstandard2.0\GA.XYZ.LeT.Domain.pdb

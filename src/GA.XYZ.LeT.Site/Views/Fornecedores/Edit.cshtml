@@ -1,0 +1,113 @@
+﻿@model GA.XYZ.LeT.Application.ViewModels.FornecedorViewModel
+
+@{
+    ViewData["Title"] = "Editar Fornecedor";
+}
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.4/css/bootstrap-datepicker3.min.css" rel="stylesheet">
+
+<br />
+<div class="container">
+    <div class="panel panel-warning">
+        <div class="panel-heading">
+            <h3 class="panel-title"><b>@ViewData["Title"] </b>"@Model.Nome"</h3>
+        </div>
+        <div class="row">
+            <div class="col">
+                <div class="panel-body">
+                    <form asp-action="Edit">
+                        <vc:summary />
+
+                        <input type="hidden" asp-for="Id" />
+                        <div class="form-group col-md-12">
+                            <label asp-for="@Model.Nome" class="control-label"></label>*
+                            <input asp-for="@Model.Nome" class="form-control" />
+                            <span asp-validation-for="@Model.Nome" class="text-danger"></span>
+                        </div>
+                        <div class="form-group col-md-6">
+                            <label asp-for="@Model.Estado" class="control-label"></label>*
+                            @Html.Partial("_Estados")
+                            <span asp-validation-for="@Model.Estado" class="text-danger"></span>
+                        </div>
+                        <div class="form-group col-md-6">
+                            <label asp-for="@Model.Cidade" class="control-label"></label>
+                            <input asp-for="@Model.Cidade" class="form-control" />
+                            <span asp-validation-for="@Model.Cidade" class="text-danger"></span>
+                        </div>
+                        <div class="form-group col-md-12">
+                            <div class="checkbox">
+                                <label>
+                                    <input asp-for="@Model.Ativo" /> <b>@Html.DisplayNameFor(model => model.Ativo)</b>
+                                </label>
+                            </div>
+                        </div>
+                        <div class="form-group col-md-6">
+                            <label asp-for="PeriodoVigenciaInicio" class="control-label"></label>*
+                            <input asp-for="PeriodoVigenciaInicio" type="text" asp-format="{0:dd/MM/yyyy}" class="form-control" />
+                            <span asp-validation-for="PeriodoVigenciaInicio" class="text-danger"></span>
+                        </div>
+                        <div class="form-group col-md-6">
+                            <div id="PeriodoVigenciaFimForm">
+                                <label asp-for="PeriodoVigenciaFim" class="control-label"></label>*
+                                <input asp-for="PeriodoVigenciaFim" type="text" asp-format="{0:dd/MM/yyyy}" class="form-control" />
+                                <span asp-validation-for="PeriodoVigenciaFim" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="form-group col-md-12">
+                            <label asp-for="ValorMaxDemanda" class="control-label"></label>
+                            <input asp-for="ValorMaxDemanda" maxlength="18" type="text" class="form-control" />
+                            <span asp-validation-for="ValorMaxDemanda" class="text-danger"></span>
+                        </div>
+                        <div class="form-group col-md-11">
+                            <input type="submit" value="Salvar" class="btn btn-success" />
+                            <a asp-action="Index" class="btn btn-danger">Cancelar</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div id="ContatoForm" class="row">
+            <div id="ContatoTarget">
+                @Html.Partial("_ContatoList", Model)
+            </div>
+        </div>
+
+        <div id="myModal" class="modal fade in">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div id="myModalContent"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div>
+
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.4/js/bootstrap-datepicker.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.4/locales/bootstrap-datepicker.pt-BR.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.4/locales/bootstrap-datepicker.pt.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js"></script>
+
+    <script>
+        FornecedorValidateScripts();
+        FornecedorMasks();
+        ContatoMasks();
+        AjaxModal();
+    </script>
+
+    @{
+        if (ViewBag.RetornoStatus != null) {
+            var notificacao = ViewBag.RetornoStatus.ToString().Split(',');
+            <script>
+                toastr["@notificacao[0]"]("@notificacao[1]");
+            </script>
+        }
+    }
+
+}

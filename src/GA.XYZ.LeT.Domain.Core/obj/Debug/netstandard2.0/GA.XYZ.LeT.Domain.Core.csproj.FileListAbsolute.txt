@@ -1,0 +1,17 @@
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain.Core\bin\Debug\netstandard2.0\GA.XYZ.LeT.Domain.Core.deps.json
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain.Core\bin\Debug\netstandard2.0\GA.XYZ.LeT.Domain.Core.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain.Core\bin\Debug\netstandard2.0\GA.XYZ.LeT.Domain.Core.pdb
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain.Core\obj\Debug\netstandard2.0\GA.XYZ.LeT.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain.Core\obj\Debug\netstandard2.0\GA.XYZ.LeT.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain.Core\obj\Debug\netstandard2.0\GA.XYZ.LeT.Domain.Core.AssemblyInfo.cs
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain.Core\obj\Debug\netstandard2.0\GA.XYZ.LeT.Domain.Core.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain.Core\obj\Debug\netstandard2.0\GA.XYZ.LeT.Domain.Core.pdb
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain.Core\obj\Debug\netstandard2.0\GA.XYZ.LeT.Domain.Core.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain.Core\bin\Debug\netstandard2.0\GA.XYZ.LeT.Domain.Core.deps.json
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain.Core\bin\Debug\netstandard2.0\GA.XYZ.LeT.Domain.Core.dll
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain.Core\bin\Debug\netstandard2.0\GA.XYZ.LeT.Domain.Core.pdb
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain.Core\obj\Debug\netstandard2.0\GA.XYZ.LeT.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain.Core\obj\Debug\netstandard2.0\GA.XYZ.LeT.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain.Core\obj\Debug\netstandard2.0\GA.XYZ.LeT.Domain.Core.AssemblyInfo.cs
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain.Core\obj\Debug\netstandard2.0\GA.XYZ.LeT.Domain.Core.dll
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Domain.Core\obj\Debug\netstandard2.0\GA.XYZ.LeT.Domain.Core.pdb

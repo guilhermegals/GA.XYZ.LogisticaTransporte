@@ -1,0 +1,52 @@
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Site.deps.json
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Site.runtimeconfig.json
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Site.runtimeconfig.dev.json
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Site.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Site.pdb
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Application.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Domain.Core.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Domain.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Infra.CrossCutting.Bus.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Infra.CrossCutting.IoC.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Infra.Data.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Application.pdb
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Infra.CrossCutting.Bus.pdb
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Infra.CrossCutting.IoC.pdb
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Infra.Data.pdb
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Domain.pdb
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Domain.Core.pdb
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\obj\Debug\netcoreapp2.0\GA.XYZ.LeT.Site.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\obj\Debug\netcoreapp2.0\GA.XYZ.LeT.Site.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\obj\Debug\netcoreapp2.0\GA.XYZ.LeT.Site.AssemblyInfo.cs
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\obj\Debug\netcoreapp2.0\GA.XYZ.LeT.Site.csproj.CopyComplete
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\obj\Debug\netcoreapp2.0\GA.XYZ.LeT.Site.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\obj\Debug\netcoreapp2.0\GA.XYZ.LeT.Site.pdb
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\obj\Debug\netcoreapp2.0\GA.XYZ.LeT.Site.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Site.deps.json
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Site.runtimeconfig.json
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Site.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Site.dll
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Site.pdb
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Application.dll
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Domain.Core.dll
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Domain.dll
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Infra.CrossCutting.Bus.dll
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Infra.CrossCutting.IoC.dll
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Infra.Data.dll
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Application.pdb
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Infra.CrossCutting.Bus.pdb
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Infra.CrossCutting.IoC.pdb
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Infra.Data.pdb
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Domain.pdb
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\bin\Debug\netcoreapp2.0\GA.XYZ.LeT.Domain.Core.pdb
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\obj\Debug\netcoreapp2.0\GA.XYZ.LeT.Site.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\obj\Debug\netcoreapp2.0\GA.XYZ.LeT.Site.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\obj\Debug\netcoreapp2.0\GA.XYZ.LeT.Site.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\obj\Debug\netcoreapp2.0\GA.XYZ.LeT.Site.AssemblyInfo.cs
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\obj\Debug\netcoreapp2.0\GA.XYZ.LeT.Site.csproj.CopyComplete
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\obj\Debug\netcoreapp2.0\GA.XYZ.LeT.Site.dll
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Site\obj\Debug\netcoreapp2.0\GA.XYZ.LeT.Site.pdb

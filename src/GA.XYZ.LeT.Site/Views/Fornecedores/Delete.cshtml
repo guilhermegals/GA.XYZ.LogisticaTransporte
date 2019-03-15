@@ -1,0 +1,76 @@
+﻿@model GA.XYZ.LeT.Application.ViewModels.FornecedorViewModel
+
+@{
+    ViewData["Title"] = "Deletar fornecedor";
+}
+
+<br />
+
+<div class="panel panel-danger">
+    <div class="panel-heading">
+        <h4 class="panel-title"><b>@ViewData["Title"] </b>"@Model.Nome"</h4>
+    </div>
+    <div class="panel-body">
+        <div class="row">
+            <div class=" col-md-12 col-lg-12 ">
+                <table class="table table-user-information">
+                    <tbody>
+                        <tr>
+                            <td><b>@Html.DisplayNameFor(model => model.Nome)</b></td>
+                            <td>@Html.DisplayFor(model => model.Nome)</td>
+                        </tr>
+                        <tr>
+                            <td><b>@Html.DisplayNameFor(model => model.Estado)</b></td>
+                            <td>@Html.DisplayFor(model => model.Estado)</td>
+                        </tr>
+                        <tr>
+                        <tr>
+                            <td><b>@Html.DisplayNameFor(model => model.Cidade)</b></td>
+                            <td>@Html.DisplayFor(model => model.Cidade)</td>
+                        </tr>
+                        <tr>
+                            <td><b>@Html.DisplayNameFor(model => model.Ativo)</b></td>
+                            <td>@Html.DisplayFor(model => model.Ativo)</td>
+                        </tr>
+                        <tr>
+                            <td><b>@Html.DisplayNameFor(model => model.PeriodoVigenciaInicio)</b></td>
+                            <td>@Model.PeriodoVigenciaInicio.ToString("d")</td>
+                        </tr>
+                        <tr>
+                            <td><b>Periodo de Vigência</b></td>
+                            <td>
+                                @{
+                                    int periodo;
+                                    if (Model.Ativo == true) {
+                                        periodo = (DateTime.Now - @Model.PeriodoVigenciaInicio).Days;
+                                    } else {
+                                        periodo = (Model.PeriodoVigenciaFim.Value - Model.PeriodoVigenciaInicio).Days;
+                                    }
+                                    @Html.DisplayName(periodo.ToString() + " dias");
+
+                                }
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><b>@Html.DisplayNameFor(model => model.PeriodoVigenciaFim)</b></td>
+                            <td>
+                                @if (Model.PeriodoVigenciaFim.HasValue) {@Model.PeriodoVigenciaFim.Value.ToString("d")}
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><b>@Html.DisplayNameFor(model => model.ValorMaxDemanda)</b></td>
+                            <td>@Html.DisplayFor(model => model.ValorMaxDemanda)</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div class="panel-footer">
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="Id" />
+            <input type="submit" value="Deletar" class="btn btn-success" />
+            <a asp-action="Index" class="btn btn-danger">Cancelar</a>
+        </form>
+    </div>
+</div>

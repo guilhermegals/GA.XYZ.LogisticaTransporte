@@ -1,0 +1,31 @@
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\appsettings.json
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.IoC.deps.json
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.IoC.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.IoC.pdb
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\GA.XYZ.LeT.Application.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\GA.XYZ.LeT.Domain.Core.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\GA.XYZ.LeT.Domain.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.Bus.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\GA.XYZ.LeT.Infra.Data.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Http.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\GA.XYZ.LeT.Application.pdb
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\GA.XYZ.LeT.Domain.pdb
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.Bus.pdb
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\GA.XYZ.LeT.Infra.Data.pdb
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\GA.XYZ.LeT.Domain.Core.pdb
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Http.xml
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.IoC.AssemblyInfo.cs
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.IoC.csproj.CopyComplete
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.IoC.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.IoC.pdb
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.IoC.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.IoC.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.IoC.AssemblyInfo.cs
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.IoC.dll
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.IoC.pdb

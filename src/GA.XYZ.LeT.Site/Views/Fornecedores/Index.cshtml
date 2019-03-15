@@ -1,0 +1,146 @@
+﻿@using PagedList.Mvc
+@using PagedList;
+@model PagedList.IPagedList<GA.XYZ.LeT.Application.ViewModels.FornecedorViewModel>
+@*@model IEnumerable<GA.XYZ.LeT.Application.ViewModels.FornecedorViewModel>*@
+
+@{
+    ViewData["Title"] = "Gestão de Fornecedores";
+}
+
+<br />
+
+<div class="container">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h3 class="panel-title"><b>@ViewData["Title"]</b></h3>
+        </div>
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-md-4">
+
+                    <form asp-controller="Fornecedores" asp-action="Index" asp- method="get">
+                        <div id="custom-search-input">
+                            <div class="input-group col-md-12">
+                                <input name="search" asp- class="form-control input" placeholder="Pesquisar fornecedor" />
+                                <span class="input-group-btn">
+                                    <button class="btn btn-info btn" type="submit">
+                                        <small><i class="glyphicon glyphicon-search"></i></small>
+                                    </button>
+                                </span>
+                            </div>
+                        </div>
+                    </form>
+
+                </div>
+                <div class="col-md-8">
+                    <div>
+                        <div class="pull-right">
+                            <a asp-action="Create" class="btn btn-primary">
+                                <span title="Novo fornecedor" class="glyphicon glyphicon-plus"></span> Adicionar Fornecedor
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <br />
+            <div class="panel panel-default">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>
+                                @Html.DisplayName("Nome do Fornecedor")
+                            </th>
+                            <th>
+                                @Html.DisplayName("Estado")
+                            </th>
+                            <th>
+                                @Html.DisplayName("Cidade")
+                            </th>
+                            <th>
+                                @Html.DisplayName("Status")
+                            </th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model) {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Nome)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Estado)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Cidade)
+                                </td>
+                                <td>
+                                    @{
+                                        if (item.Ativo) {
+                                            @Html.DisplayName("Ativo")
+                                        } else {
+                                            @Html.DisplayName("Inativo")
+                                        }
+                                    }
+                                </td>
+                                <td>
+                                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">
+                                        <span title="Editar" class="glyphicon glyphicon-pencil"></span>
+                                    </a>
+                                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-primary">
+                                        <span title="Visualizar" class="glyphicon glyphicon-search"></span>
+                                    </a>
+                                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">
+                                        <span title="Excluir" class="glyphicon glyphicon-trash"></span>
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <div class="page-nation">
+                <ul class="pagination">
+                    <li>
+                        @{
+                            if (Model.HasPreviousPage) {
+                                var previous = Model.PageNumber - 1;
+                                <a asp-action="Index" asp-route-pagina="@previous" class="btn btn-default">
+                                    <span title="Anterior">«</span>
+                                </a>
+                            } else {
+                                <span>«</span>
+                            }
+                        }
+                    </li>
+                    @{
+                        for (var i = 1; i < Model.PageCount + 1; i++) {
+                            <li @(Model.PageNumber == i ? "class=active" : "")>
+                                <a asp-action="Index" asp-route-pagina="@i" class="btn btn-default">
+                                    @i
+                                </a>
+                            </li>
+                        }
+                    }
+                    <li>
+                        @{
+                            if (Model.HasNextPage) {
+                                var next = Model.PageNumber + 1;
+                                <a asp-action="Index" asp-route-pagina="@next" class="btn btn-default">
+                                    <span title="Próximo">»</span>
+                                </a>
+                            } else {
+                                <span>»</span>
+                            }
+                        }
+                    </li>
+                </ul>
+                <div class="pull-right">
+                    Mostrando @Model.Count registros de @Model.TotalItemCount
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

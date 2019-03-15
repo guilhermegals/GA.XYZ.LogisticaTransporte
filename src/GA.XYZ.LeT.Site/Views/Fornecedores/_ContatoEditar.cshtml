@@ -1,0 +1,31 @@
+﻿@model GA.XYZ.LeT.Application.ViewModels.ContatoViewModel
+
+@{
+    ViewData["Title"] = "Editar contato";
+}
+
+<div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal">
+        <span aria-hidden="true">×</span><span class="sr-only">Fechar</span>
+    </button>
+    <h4 class="modal-title"><strong>@ViewData["Title"] "@Model.Nome"</strong></h4>
+</div>
+
+<form asp-action="EditarContato">
+    <div class="modal-body">
+        <div class="form-horizontal">
+            <vc:summary />
+
+            <div class="modal-body">
+                @Html.Partial("_Contato")
+            </div>
+
+            <div class="modal-footer">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Salvar" class="btn btn-success" />
+                    <input type="button" class="btn btn-danger" value="Cancelar" data-dismiss="modal" />
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

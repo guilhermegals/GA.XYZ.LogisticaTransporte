@@ -1,0 +1,24 @@
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.Bus\bin\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.Bus.deps.json
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.Bus\bin\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.Bus.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.Bus\bin\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.Bus.pdb
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.Bus\bin\Debug\netstandard2.0\GA.XYZ.LeT.Domain.Core.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.Bus\bin\Debug\netstandard2.0\GA.XYZ.LeT.Domain.Core.pdb
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.Bus\obj\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.Bus.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.Bus\obj\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.Bus.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.Bus\obj\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.Bus.AssemblyInfo.cs
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.Bus\obj\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.Bus.csproj.CopyComplete
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.Bus\obj\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.Bus.dll
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.Bus\obj\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.Bus.pdb
+C:\Users\guilh\source\repos\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.Bus\obj\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.Bus.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.Bus\bin\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.Bus.deps.json
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.Bus\bin\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.Bus.dll
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.Bus\bin\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.Bus.pdb
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.Bus\bin\Debug\netstandard2.0\GA.XYZ.LeT.Domain.Core.dll
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.Bus\bin\Debug\netstandard2.0\GA.XYZ.LeT.Domain.Core.pdb
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.Bus\obj\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.Bus.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.Bus\obj\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.Bus.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.Bus\obj\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.Bus.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.Bus\obj\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.Bus.AssemblyInfo.cs
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.Bus\obj\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.Bus.csproj.CopyComplete
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.Bus\obj\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.Bus.dll
+C:\Users\guilh\Desktop\My Paste\Projects\GA.XYZ.LeT\src\GA.XYZ.LeT.Infra.CrossCutting.Bus\obj\Debug\netstandard2.0\GA.XYZ.LeT.Infra.CrossCutting.Bus.pdb

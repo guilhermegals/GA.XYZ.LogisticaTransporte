@@ -1,0 +1,23 @@
+﻿@model GA.XYZ.LeT.Application.ViewModels.ContatoViewModel
+
+<div class="form-horizontal">
+    <input type="hidden" asp-for="IdFornecedor" />
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label asp-for="Nome" class="control-label"></label>*
+        <input asp-for="Nome" class="form-control" maxlength="150" placeholder="Ex: Contato " />
+        <span asp-validation-for="Nome" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Email" class="control-label"></label>*
+        <input asp-for="Email" class="form-control" maxlength="50" placeholder="Ex: contato@contato.com"/>
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Telefone" class="control-label"></label>*
+        <input asp-for="Telefone" type="text" class="form-control"  placeholder="Ex: (12) 3456-7890" />
+        <span asp-validation-for="Telefone" class="text-danger"></span>
+    </div>
+</div>
+

@@ -1,0 +1,8 @@
+﻿
+@using GA.XYZ.LeT.Application.ViewModels
+@model FornecedorViewModel
+
+@{
+    var cidades = (IEnumerable<SelectListItem>)new FornecedorViewModel().Cidades(Model.Estado);
+}
+<select class="form-control" asp-for="Cidade" asp-items="@cidades"></select>   

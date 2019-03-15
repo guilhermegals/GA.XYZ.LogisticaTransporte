@@ -1,0 +1,70 @@
+﻿@model GA.XYZ.LeT.Application.ViewModels.FornecedorViewModel
+
+<div class="container">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h3 class="panel-title"><b>Contatos do fornecedor</b></h3>
+        </div>
+        <div class="panel-body">
+            <div class="pull-left">
+                <a asp-action="AdicionarContato" asp-route-id="@Model.Id" data-modal="" class="btn btn-primary">
+                    <span title="Novo contato" class="glyphicon glyphicon-plus"></span> Adicionar Contato
+                </a>
+            </div>
+            <div class="pull-right">
+                <a class="btn btn-primary" onclick="Refresh()">
+                    <span title="Novo contato" class="glyphicon glyphicon-refresh"></span>
+                </a>
+            </div>
+            <div class="row">
+                @if (Model.Contatos.Any()) {
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Contato.Nome)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Contato.Email)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Contato.Telefone)
+                                </th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model.Contatos) {
+                                <tr>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Nome)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Email)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Telefone)
+                                    </td>
+                                    <td>
+                                        @if (ViewBag.ExibirBotaoEditar) {
+                                            <a asp-action="EditarContato" asp-route-id="@item.Id" data-modal="" class="btn btn-warning">
+                                                <span title="Editar" class="glyphicon glyphicon-pencil"></span>
+                                            </a>
+                                        }
+
+                                        @if (ViewBag.ExibirBotaoExcluir) {
+                                            <a asp-action="DeletarContato" asp-route-id="@item.Id" data-modal="" class="btn btn-danger">
+                                                <span title="Excluir" class="glyphicon glyphicon-trash"></span>
+                                            </a>
+                                        }
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+

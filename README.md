@@ -19,3 +19,4 @@ Projeto desenvolvido com a tecnologia ASP.NET Core para a prova de seleção da 
 * Dapper
 * Injeção de Dependência
 
+**Desenvolvido por Guilherme Augusto Leite Santos em 2018**

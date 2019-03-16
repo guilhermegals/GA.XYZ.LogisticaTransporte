@@ -8,7 +8,7 @@ Projeto desenvolvido com a tecnologia ASP.NET Core para a prova de seleção da 
 * Conexão com banco de dados
 * Interface
 
-## Tecnologias e Padrões de projetos Utilizadas
+## Tecnologias e Padrões de projetos Utilizados
 * ASP.NET Core
 * C#
 * DDD
